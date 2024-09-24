@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Repository to learn about git.",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mti-bangnn/hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "BangNN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mti-bangnn/hello-world/issues"
+  },
+  "homepage": "https://github.com/mti-bangnn/hello-world#readme"
+}
